@@ -1,0 +1,7 @@
+**/venv
+**/.idea
+/generated/objects/*
+/generated/options/*
+!/generated/objects/.gitkeep
+!/generated/options/.gitkeep
+/generated/sheets/*
